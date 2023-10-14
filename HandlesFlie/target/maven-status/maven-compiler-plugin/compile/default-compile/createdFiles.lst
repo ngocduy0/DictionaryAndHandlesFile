@@ -1,0 +1,4 @@
+view\Main.class
+common\Validation.class
+controller\Manager.class
+model\Person.class

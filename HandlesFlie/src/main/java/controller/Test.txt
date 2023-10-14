@@ -1,0 +1,5 @@
+Name;Address;Money
+Duy;Quang Nam;1000.0
+Tam;Da Nang;1300.0
+Ha;HCM;1500.0
+
